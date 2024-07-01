@@ -1,5 +1,25 @@
 # @primer/css
 
+## 21.3.4
+
+### Patch Changes
+
+- [#2651](https://github.com/primer/css/pull/2651) [`e329973`](https://github.com/primer/css/commit/e329973d4d788b8b6d2688a907f88c8458b6db7a) Thanks [@jonrohan](https://github.com/jonrohan)! - Bug fix: Removing complex padding calc on kbd
+
+## 21.3.3
+
+### Patch Changes
+
+- [#2644](https://github.com/primer/css/pull/2644) [`eba2b2c`](https://github.com/primer/css/commit/eba2b2c157efc2e16a7bf36db0882c6f330b7bd4) Thanks [@camertron](https://github.com/camertron)! - Fix 'clac' -> 'calc' typo
+
+## 21.3.2
+
+### Patch Changes
+
+- [#2643](https://github.com/primer/css/pull/2643) [`ab6076c`](https://github.com/primer/css/commit/ab6076c62bac967d5d0c805744e50cc8d73d4171) Thanks [@langermank](https://github.com/langermank)! - Use `control` borders for subnav + disabled button fix
+
+- [#2634](https://github.com/primer/css/pull/2634) [`af3ab76`](https://github.com/primer/css/commit/af3ab76454fd3045315082a14cdc5bdfcabd860a) Thanks [@jonrohan](https://github.com/jonrohan)! - Upgrade to @primer/primtives@8.2.0 and @primer/stylelint-config@13.0.0-rc
+
 ## 21.3.1
 
 ### Patch Changes
